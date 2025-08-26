@@ -29,7 +29,6 @@ public class Genero {
         this.setId(id);
         this.setNome(nome);
     }
-
     public Genero(){};
 }
 
